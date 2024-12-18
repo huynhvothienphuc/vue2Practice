@@ -1,0 +1,62 @@
+{
+  "name": "vue2practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is Vue 2 project !",
+  "author": "",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "ant-design-vue": "^1.7.8",
+    "core-js": "^3.6.5",
+    "primeicons": "^6.0.1",
+    "primevue": "^2.10.4",
+    "vue": "^2.7.16",
+    "vue-router": "^3.6.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.19",
+    "@vue/cli-plugin-eslint": "~4.5.19",
+    "@vue/cli-service": "~4.5.19",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "_id": "vue2practice@1.0.0",
+  "bugs": {
+    "url": "https://github.com/huynhvothienphuc/vue2Practice/issues"
+  },
+  "homepage": "https://github.com/huynhvothienphuc/vue2Practice#readme",
+  "keywords": [],
+  "license": "ISC",
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huynhvothienphuc/vue2Practice.git"
+  }
+}
